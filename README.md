@@ -1,4 +1,4 @@
-# domains-to-ip
+# Domain To IP
 
 this tool take a list of domain from a text file and give out a list of domain versus ip for every domain ( if it is resolved )and the output is coloured to be easy for reading and now it is multi threaded so it is now so fast
 
